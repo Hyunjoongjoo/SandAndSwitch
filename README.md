@@ -15,6 +15,8 @@
 
 ## 플레이 화면
 
+<img width="1280" height="720" alt="Honeycam 2026-04-17 11-26-40" src="https://github.com/user-attachments/assets/15bb4b34-5df0-4a91-b08b-3258b58cf436" />
+
 <img width="1280" height="720" alt="Honeycam 2026-04-17 11-21-12" src="https://github.com/user-attachments/assets/5749b6fb-b06d-4453-aad0-10707b926cb2" />
 
 

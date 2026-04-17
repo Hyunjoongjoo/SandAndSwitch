@@ -15,10 +15,8 @@
 
 ## 플레이 화면
 
-<img width="1280" height="720" alt="Honeycam 2026-04-17 11-26-40" src="https://github.com/user-attachments/assets/15bb4b34-5df0-4a91-b08b-3258b58cf436" />
-
-<img width="1280" height="720" alt="Honeycam 2026-04-17 11-21-12" src="https://github.com/user-attachments/assets/5749b6fb-b06d-4453-aad0-10707b926cb2" />
-
+<img width="640" height="360" alt="Honeycam 2026-04-17 12-36-24" src="https://github.com/user-attachments/assets/9252e8c5-e350-497b-aadb-05d4d00dc2ba" />
+<img width="640" height="360" alt="Honeycam 2026-04-17 12-36-49" src="https://github.com/user-attachments/assets/98bdb7aa-158f-4abd-a55e-ffab683054f2" />
 
 - 퀵슬롯 아이템 사용
 - 아이템 획득 및 처리
